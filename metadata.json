@@ -1,0 +1,9 @@
+
+{
+  "name": "Copy of InviteX Pro",
+  "description": "An ultra-modern digital invitation platform featuring 10+ professional templates, real-time messaging, and an admin management system.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
